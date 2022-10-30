@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 bonjour master nhffqsf
+=======
+helloword !!
+>>>>>>> newbranch
